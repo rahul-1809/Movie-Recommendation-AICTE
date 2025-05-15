@@ -1,5 +1,5 @@
-# Ignore config file with API keys
-config.json
+# Streamlit secrets file
+.streamlit/secrets.toml
 
 # Python-specific
 __pycache__/
