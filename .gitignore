@@ -1,0 +1,16 @@
+# Ignore config file with API keys
+config.json
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# VS Code-specific
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
